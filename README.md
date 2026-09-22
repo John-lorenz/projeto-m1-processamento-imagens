@@ -9,4 +9,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
+Repositório: https://github.com/john-lorenz/projeto-m1-processamento-imagens
+
 Imagens em `imagens/`. Saídas em `resultados/`.

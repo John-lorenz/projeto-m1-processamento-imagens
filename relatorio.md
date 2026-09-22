@@ -139,4 +139,8 @@ Deixamos os parâmetros iguais nas três imagens. Se fosse ajustar cada uma, nã
 
 ## Código e resultados
 
-O código acompanha o relatório. As radiografias estão em `imagens/` e o que o programa gera fica em `resultados/`.
+O código, as imagens, as figuras e a tabela de métricas estão no repositório:
+
+https://github.com/john-lorenz/projeto-m1-processamento-imagens
+
+As radiografias ficam em `imagens/`. O que o programa gera fica em `resultados/`. Execução: `python main.py`.
