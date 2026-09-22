@@ -7,7 +7,7 @@ João Arthur dos Santos Lorenzoni e Lucas Francelino
 
 ## Enunciado
 
-Neste trabalho usamos radiografias do conjunto MURA e tentamos melhorar a qualidade delas com operação pontual e filtro espacial. Cada etapa foi implementada por nós, sem filtro pronto de biblioteca. No final comparamos duas formas de montar o pipeline, olhando a imagem e também as métricas.
+Neste trabalho usamos radiografias do conjunto MURA e tentamos melhorar a qualidade delas com operação pontual e filtro espacial. As etapas de processamento foram escritas no código, sem filtro pronto de biblioteca. No final comparamos duas formas de montar o pipeline, olhando a imagem e também as métricas.
 
 ## Por que isso importa
 
@@ -83,7 +83,7 @@ mascara = imagem - suave
 saida = imagem + k * mascara
 ```
 
-O pipeline em si está em `src/pipeline.py`. PSNR e SSIM também foram implementados por nós, em `src/metricas.py`.
+O pipeline em si está em `src/pipeline.py`. PSNR e SSIM estão em `src/metricas.py`.
 
 ## Métricas
 
