@@ -1,0 +1,11 @@
+Imagem                    Config  Etapa                  PSNR (dB)    SSIM  Contraste
+-------------------------------------------------------------------------------------
+antebraco_artefatos       -       Ruidosa (sigma=15)         24.97  0.3997      37.51
+antebraco_artefatos       A       Final                       8.56  0.1375      73.45
+antebraco_artefatos       B       Final                      19.38  0.4564      38.60
+antebraco_bem_definido    -       Ruidosa (sigma=15)         26.04  0.3223      33.80
+antebraco_bem_definido    A       Final                       9.38  0.1064      85.23
+antebraco_bem_definido    B       Final                      20.29  0.3073      40.49
+antebraco_subexposto      -       Ruidosa (sigma=15)         24.76  0.2868      24.82
+antebraco_subexposto      A       Final                       8.94  0.1090      73.40
+antebraco_subexposto      B       Final                      18.35  0.4583      25.80
